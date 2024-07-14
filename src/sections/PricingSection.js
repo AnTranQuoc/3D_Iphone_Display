@@ -200,7 +200,7 @@ const PricingSection = () => {
         <Details>
           <SubTitle>iPhone</SubTitle>
           <Title>14 Pro Max</Title>
-          <SubTitle>From $1099*</SubTitle>
+          <SubTitle>From 1099$</SubTitle>
           <ButtonContainer>
             <Btn>Buy</Btn>
             <BtnLink href="#">Learn More &#x2192;</BtnLink>
